@@ -43,7 +43,7 @@
 					},
 					{
 						"Name": "Audio",
-						"Path": "audio1.wav"
+						"Path": "audio1.aac"
 					}
 				]
 			},
@@ -75,7 +75,7 @@
 					},
 					{
 						"Name": "Audio",
-						"Path": "audio1.wav"
+						"Path": "audio1.aac"
 					}
 				]
 			},
@@ -107,7 +107,7 @@
 					},
 					{
 						"Name": "Audio",
-						"Path": "audio1.wav"
+						"Path": "audio1.aac"
 					}
 				]
 			}
