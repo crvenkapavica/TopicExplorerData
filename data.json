@@ -1,0 +1,116 @@
+{
+    "languages": [
+        {
+            "id": "hr",
+            "name": "Hrvatski"
+        },
+        {
+            "id": "en",
+            "name": "English"
+        },
+        {
+            "id": "de",
+            "name": "Deutsch"
+        }
+    ],
+	"Contents": {
+		"Topics": [
+			{
+				"Name": {
+						"hr": "HRVATSKI TOPIK 1",
+						"en": "ENGLISH TOPIC 1",
+						"de": "DEUTSCHE TOPISCHE 1"
+				},
+				"Details" : {
+						"hr": "Ovo je text na Hrvatskome!\nOvo je text na Hrvatskome! 1",
+						"en": "This is a text in English!\nThis is a text in English 1",
+						"de": "Das ist der Text das Deutsches!\nDas ist der Text das Deutsches! 1"
+				},
+				"Media": [
+					{
+						"Name": "Gallery",
+						"Photos": [
+							{
+								"Path": "feather.png"
+							},
+							{								
+								"Path": "bird.png"
+							},
+							{
+								"Path": "stripes.png"
+							}
+						]
+					},
+					{
+						"Name": "Audio",
+						"Path": "audio1.mp3"
+					}
+				]
+			},
+			{
+				"Name": {
+						"hr":"HRVATSKI TOPIK 2",
+						"en": "ENGLISH TOPIC 2",
+						"de": "DEUTSCHE TOPISCHE 2"
+				},
+				"Details" : {
+						"hr": "Ovo je text na Hrvatskome!\nOvo je text na Hrvatskome! 2",
+						"en": "This is a text in English!\nThis is a text in English 2",
+						"de": "Das ist der Text das Deutsches!\nDas ist der Text das Deutsches! 2"
+				},
+				"Media": [
+					{
+						"Name": "Gallery",
+						"Photos": [
+							{
+								"Path": "feather.png"
+							},
+							{								
+								"Path": "bird.png"
+							},
+							{
+								"Path": "stripes.png"
+							}
+						]
+					},
+					{
+						"Name": "Audio",
+						"Path": "audio1.mp3"
+					}
+				]
+			},
+			{
+				"Name": {
+						"hr": "HRVATSKI TOPIK 3",
+						"en": "ENGLISH TOPIC 3",
+						"de": "DEUTSCHE TOPISCHE 3"
+				},
+				"Details" : {
+						"hr": "Ovo je text na Hrvatskome!\nOvo je text na Hrvatskome! 3",
+						"en": "This is a text in English!\nThis is a text in English 3",
+						"de": "Das ist der Text das Deutsches!\nDas ist der Text das Deutsches! 3"
+				},
+				"Media": [
+					{
+						"Name": "Gallery",
+						"Photos": [
+							{
+								"Path": "feather.png"
+							},
+							{								
+								"Path": "bird.png"
+							},
+							{
+								"Path": "stripes.png"
+							}
+						]
+					},
+					{
+						"Name": "Audio",
+						"Path": "audio1.mp3"
+					}
+				]
+			}
+		]
+	}
+}
