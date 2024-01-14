@@ -43,7 +43,7 @@
 					},
 					{
 						"Name": "Audio",
-						"Path": "audio1.ogg"
+						"Path": "audio1.mp3"
 					}
 				]
 			},
@@ -75,7 +75,7 @@
 					},
 					{
 						"Name": "Audio",
-						"Path": "audio1.ogg"
+						"Path": "audio1.mp3"
 					}
 				]
 			},
@@ -107,7 +107,7 @@
 					},
 					{
 						"Name": "Audio",
-						"Path": "audio1.ogg"
+						"Path": "audio1.mp3"
 					}
 				]
 			}
